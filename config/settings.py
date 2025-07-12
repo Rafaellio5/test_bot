@@ -1,4 +1,4 @@
-BOT_TOKEN = "ТВОЙ_ТОКЕН_ОТ_TELEGRAM"
+BOT_TOKEN = "7976994342:AAFKJnir7HRDTqSYKxjAlHJ5aVFueoDH5OA"
 
 BRANCHES = {
     "Узбум": [("Спец 1", "@RM5_BVB"), ("Спец 2", "@username2")],
